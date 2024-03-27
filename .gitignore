@@ -1,0 +1,7 @@
+.DS_Store
+build*
+!build.xml
+!build-common.cmake
+!build-custom.cmake
+!/build-osx
+!/build-win
